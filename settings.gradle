@@ -1,0 +1,2 @@
+rootProject.name = "HandlePermission_CheckBox"
+include ':app'
